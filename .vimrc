@@ -476,4 +476,7 @@ map fc :call Auto_gen_ctags_cscope()<CR><CR><CR><CR><CR><CR>
 
 set termguicolors
 
+"-------- map tn tp to :tabn :tabN
+map tn :tabn<CR>
+map tp :tabN<CR>
 
